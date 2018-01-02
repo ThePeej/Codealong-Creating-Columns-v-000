@@ -103,6 +103,7 @@ img, video, audio {
 }
 
 .col-3 {
+  float: left;
   background: #ccc;
 }
 
