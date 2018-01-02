@@ -104,6 +104,7 @@ img, video, audio {
 
 .col-3 {
   float: left;
+  width: 100%;
   background: #ccc;
 }
 
